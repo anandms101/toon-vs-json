@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-11-08T16:33:53.275706",
+  "summary": {
+    "token_reduction": {
+      "average_openai_percent": 20.45,
+      "average_anthropic_percent": 19.81,
+      "datasets_analyzed": 3
+    },
+    "cost_analysis": {
+      "models_analyzed": 2,
+      "projections_available": true
+    }
+  }
+}

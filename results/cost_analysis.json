@@ -1,0 +1,737 @@
+{
+  "timestamp": "2025-11-08T16:33:53.269883",
+  "models": {
+    "openai": {
+      "gpt-4": {
+        "input_pricing": 30.0,
+        "output_pricing": 60.0,
+        "datasets": {
+          "users": {
+            "input": {
+              "json_cost": 0.6867300000000001,
+              "toon_cost": 0.52992,
+              "savings": 0.15681000000000012,
+              "savings_percent": 22.834301690620784
+            },
+            "output": {
+              "json_cost": 0.6867,
+              "toon_cost": 0.52992,
+              "savings": 0.15678000000000003,
+              "savings_percent": 22.83093053735256
+            },
+            "total": {
+              "json_cost": 1.37343,
+              "toon_cost": 1.05984,
+              "savings": 0.31359000000000015,
+              "savings_percent": 22.83261615080493
+            }
+          },
+          "api_response": {
+            "input": {
+              "json_cost": 0.09558,
+              "toon_cost": 0.08022,
+              "savings": 0.015359999999999999,
+              "savings_percent": 16.07030759573132
+            },
+            "output": {
+              "json_cost": 0.09558,
+              "toon_cost": 0.08022,
+              "savings": 0.015359999999999999,
+              "savings_percent": 16.07030759573132
+            },
+            "total": {
+              "json_cost": 0.19116,
+              "toon_cost": 0.16044,
+              "savings": 0.030719999999999997,
+              "savings_percent": 16.07030759573132
+            }
+          },
+          "products": {
+            "input": {
+              "json_cost": 0.65727,
+              "toon_cost": 0.50964,
+              "savings": 0.14763000000000004,
+              "savings_percent": 22.461089050162037
+            },
+            "output": {
+              "json_cost": 0.65724,
+              "toon_cost": 0.50964,
+              "savings": 0.14760000000000006,
+              "savings_percent": 22.457549753514705
+            },
+            "total": {
+              "json_cost": 1.31451,
+              "toon_cost": 1.01928,
+              "savings": 0.2952300000000001,
+              "savings_percent": 22.459319442225627
+            }
+          }
+        },
+        "totals": {
+          "input": {
+            "json_cost": 1.43958,
+            "toon_cost": 1.11978,
+            "savings": 0.3198000000000001,
+            "savings_percent": 22.214812653690664
+          },
+          "output": {
+            "json_cost": 1.43952,
+            "toon_cost": 1.11978,
+            "savings": 0.3197399999999999,
+            "savings_percent": 22.21157052350783
+          },
+          "combined": {
+            "json_cost": 2.8791,
+            "toon_cost": 2.23956,
+            "savings": 0.63954,
+            "savings_percent": 22.21319162238199
+          }
+        }
+      },
+      "gpt-4-turbo": {
+        "input_pricing": 10.0,
+        "output_pricing": 30.0,
+        "datasets": {
+          "users": {
+            "input": {
+              "json_cost": 0.22891,
+              "toon_cost": 0.17664,
+              "savings": 0.05227000000000001,
+              "savings_percent": 22.834301690620773
+            },
+            "output": {
+              "json_cost": 0.34335,
+              "toon_cost": 0.26496,
+              "savings": 0.07839000000000002,
+              "savings_percent": 22.83093053735256
+            },
+            "total": {
+              "json_cost": 0.57226,
+              "toon_cost": 0.4416,
+              "savings": 0.13066000000000003,
+              "savings_percent": 22.832279034005527
+            }
+          },
+          "api_response": {
+            "input": {
+              "json_cost": 0.03186,
+              "toon_cost": 0.02674,
+              "savings": 0.0051199999999999996,
+              "savings_percent": 16.07030759573132
+            },
+            "output": {
+              "json_cost": 0.04779,
+              "toon_cost": 0.04011,
+              "savings": 0.007679999999999999,
+              "savings_percent": 16.07030759573132
+            },
+            "total": {
+              "json_cost": 0.07965,
+              "toon_cost": 0.06684999999999999,
+              "savings": 0.012799999999999999,
+              "savings_percent": 16.07030759573132
+            }
+          },
+          "products": {
+            "input": {
+              "json_cost": 0.21909,
+              "toon_cost": 0.16988,
+              "savings": 0.049210000000000004,
+              "savings_percent": 22.461089050162034
+            },
+            "output": {
+              "json_cost": 0.32862,
+              "toon_cost": 0.25482,
+              "savings": 0.07380000000000003,
+              "savings_percent": 22.457549753514705
+            },
+            "total": {
+              "json_cost": 0.54771,
+              "toon_cost": 0.42469999999999997,
+              "savings": 0.12301000000000004,
+              "savings_percent": 22.45896551094558
+            }
+          }
+        },
+        "totals": {
+          "input": {
+            "json_cost": 0.47986,
+            "toon_cost": 0.37326,
+            "savings": 0.10660000000000003,
+            "savings_percent": 22.214812653690664
+          },
+          "output": {
+            "json_cost": 0.71976,
+            "toon_cost": 0.55989,
+            "savings": 0.15986999999999996,
+            "savings_percent": 22.21157052350783
+          },
+          "combined": {
+            "json_cost": 1.19962,
+            "toon_cost": 0.9331499999999999,
+            "savings": 0.26647,
+            "savings_percent": 22.21286740801254
+          }
+        }
+      },
+      "gpt-3.5-turbo": {
+        "input_pricing": 0.5,
+        "output_pricing": 1.5,
+        "datasets": {
+          "users": {
+            "input": {
+              "json_cost": 0.0114455,
+              "toon_cost": 0.008832,
+              "savings": 0.0026135000000000012,
+              "savings_percent": 22.83430169062078
+            },
+            "output": {
+              "json_cost": 0.017167500000000002,
+              "toon_cost": 0.013248,
+              "savings": 0.003919500000000003,
+              "savings_percent": 22.83093053735257
+            },
+            "total": {
+              "json_cost": 0.028613000000000003,
+              "toon_cost": 0.02208,
+              "savings": 0.006533000000000004,
+              "savings_percent": 22.832279034005534
+            }
+          },
+          "api_response": {
+            "input": {
+              "json_cost": 0.001593,
+              "toon_cost": 0.001337,
+              "savings": 0.00025599999999999993,
+              "savings_percent": 16.07030759573132
+            },
+            "output": {
+              "json_cost": 0.0023895,
+              "toon_cost": 0.0020055000000000003,
+              "savings": 0.0003839999999999998,
+              "savings_percent": 16.070307595731315
+            },
+            "total": {
+              "json_cost": 0.0039825,
+              "toon_cost": 0.0033425000000000004,
+              "savings": 0.0006399999999999997,
+              "savings_percent": 16.070307595731318
+            }
+          },
+          "products": {
+            "input": {
+              "json_cost": 0.0109545,
+              "toon_cost": 0.008494,
+              "savings": 0.002460500000000001,
+              "savings_percent": 22.461089050162037
+            },
+            "output": {
+              "json_cost": 0.016431,
+              "toon_cost": 0.012740999999999999,
+              "savings": 0.0036900000000000023,
+              "savings_percent": 22.457549753514712
+            },
+            "total": {
+              "json_cost": 0.0273855,
+              "toon_cost": 0.021234999999999997,
+              "savings": 0.006150500000000003,
+              "savings_percent": 22.458965510945585
+            }
+          }
+        },
+        "totals": {
+          "input": {
+            "json_cost": 0.023993,
+            "toon_cost": 0.018663,
+            "savings": 0.005330000000000001,
+            "savings_percent": 22.214812653690664
+          },
+          "output": {
+            "json_cost": 0.035988,
+            "toon_cost": 0.0279945,
+            "savings": 0.0079935,
+            "savings_percent": 22.211570523507838
+          },
+          "combined": {
+            "json_cost": 0.059981,
+            "toon_cost": 0.0466575,
+            "savings": 0.013323500000000002,
+            "savings_percent": 22.212867408012542
+          }
+        }
+      }
+    },
+    "anthropic": {
+      "claude-3-opus": {
+        "input_pricing": 15.0,
+        "output_pricing": 75.0,
+        "datasets": {
+          "users": {
+            "input": {
+              "json_cost": 0.34336500000000003,
+              "toon_cost": 0.26496,
+              "savings": 0.07840500000000006,
+              "savings_percent": 22.834301690620784
+            },
+            "output": {
+              "json_cost": 0.858375,
+              "toon_cost": 0.6624,
+              "savings": 0.195975,
+              "savings_percent": 22.830930537352558
+            },
+            "total": {
+              "json_cost": 1.20174,
+              "toon_cost": 0.92736,
+              "savings": 0.27438000000000007,
+              "savings_percent": 22.831893754056622
+            }
+          },
+          "api_response": {
+            "input": {
+              "json_cost": 0.04779,
+              "toon_cost": 0.04011,
+              "savings": 0.007679999999999999,
+              "savings_percent": 16.07030759573132
+            },
+            "output": {
+              "json_cost": 0.119475,
+              "toon_cost": 0.100275,
+              "savings": 0.019199999999999995,
+              "savings_percent": 16.07030759573132
+            },
+            "total": {
+              "json_cost": 0.167265,
+              "toon_cost": 0.140385,
+              "savings": 0.026879999999999994,
+              "savings_percent": 16.07030759573132
+            }
+          },
+          "products": {
+            "input": {
+              "json_cost": 0.328635,
+              "toon_cost": 0.25482,
+              "savings": 0.07381500000000002,
+              "savings_percent": 22.461089050162037
+            },
+            "output": {
+              "json_cost": 0.82155,
+              "toon_cost": 0.63705,
+              "savings": 0.1845,
+              "savings_percent": 22.457549753514698
+            },
+            "total": {
+              "json_cost": 1.150185,
+              "toon_cost": 0.8918699999999999,
+              "savings": 0.258315,
+              "savings_percent": 22.458561014097732
+            }
+          }
+        },
+        "totals": {
+          "input": {
+            "json_cost": 0.71979,
+            "toon_cost": 0.55989,
+            "savings": 0.15990000000000004,
+            "savings_percent": 22.214812653690664
+          },
+          "output": {
+            "json_cost": 1.7993999999999999,
+            "toon_cost": 1.3997249999999999,
+            "savings": 0.399675,
+            "savings_percent": 22.211570523507838
+          },
+          "combined": {
+            "json_cost": 2.51919,
+            "toon_cost": 1.9596149999999999,
+            "savings": 0.559575,
+            "savings_percent": 22.212496873995214
+          }
+        }
+      },
+      "claude-3-sonnet": {
+        "input_pricing": 3.0,
+        "output_pricing": 15.0,
+        "datasets": {
+          "users": {
+            "input": {
+              "json_cost": 0.06867300000000001,
+              "toon_cost": 0.052992,
+              "savings": 0.015681000000000014,
+              "savings_percent": 22.834301690620784
+            },
+            "output": {
+              "json_cost": 0.171675,
+              "toon_cost": 0.13248,
+              "savings": 0.03919500000000001,
+              "savings_percent": 22.83093053735256
+            },
+            "total": {
+              "json_cost": 0.240348,
+              "toon_cost": 0.18547199999999997,
+              "savings": 0.05487600000000002,
+              "savings_percent": 22.831893754056626
+            }
+          },
+          "api_response": {
+            "input": {
+              "json_cost": 0.009558,
+              "toon_cost": 0.008022000000000001,
+              "savings": 0.0015359999999999992,
+              "savings_percent": 16.070307595731315
+            },
+            "output": {
+              "json_cost": 0.023895,
+              "toon_cost": 0.020055,
+              "savings": 0.0038399999999999997,
+              "savings_percent": 16.07030759573132
+            },
+            "total": {
+              "json_cost": 0.033453,
+              "toon_cost": 0.028077,
+              "savings": 0.005375999999999999,
+              "savings_percent": 16.07030759573132
+            }
+          },
+          "products": {
+            "input": {
+              "json_cost": 0.06572700000000001,
+              "toon_cost": 0.050963999999999995,
+              "savings": 0.014763000000000012,
+              "savings_percent": 22.46108905016205
+            },
+            "output": {
+              "json_cost": 0.16431,
+              "toon_cost": 0.12741,
+              "savings": 0.036900000000000016,
+              "savings_percent": 22.457549753514705
+            },
+            "total": {
+              "json_cost": 0.23003700000000002,
+              "toon_cost": 0.17837399999999998,
+              "savings": 0.05166300000000003,
+              "savings_percent": 22.458561014097743
+            }
+          }
+        },
+        "totals": {
+          "input": {
+            "json_cost": 0.143958,
+            "toon_cost": 0.111978,
+            "savings": 0.03198000000000001,
+            "savings_percent": 22.214812653690664
+          },
+          "output": {
+            "json_cost": 0.35988,
+            "toon_cost": 0.279945,
+            "savings": 0.07993499999999998,
+            "savings_percent": 22.21157052350783
+          },
+          "combined": {
+            "json_cost": 0.503838,
+            "toon_cost": 0.391923,
+            "savings": 0.11191499999999999,
+            "savings_percent": 22.21249687399521
+          }
+        }
+      },
+      "claude-3-haiku": {
+        "input_pricing": 0.25,
+        "output_pricing": 1.25,
+        "datasets": {
+          "users": {
+            "input": {
+              "json_cost": 0.00572275,
+              "toon_cost": 0.004416,
+              "savings": 0.0013067500000000006,
+              "savings_percent": 22.83430169062078
+            },
+            "output": {
+              "json_cost": 0.01430625,
+              "toon_cost": 0.01104,
+              "savings": 0.00326625,
+              "savings_percent": 22.830930537352558
+            },
+            "total": {
+              "json_cost": 0.020028999999999998,
+              "toon_cost": 0.015456,
+              "savings": 0.004573000000000001,
+              "savings_percent": 22.831893754056622
+            }
+          },
+          "api_response": {
+            "input": {
+              "json_cost": 0.0007965,
+              "toon_cost": 0.0006685,
+              "savings": 0.00012799999999999997,
+              "savings_percent": 16.07030759573132
+            },
+            "output": {
+              "json_cost": 0.00199125,
+              "toon_cost": 0.00167125,
+              "savings": 0.00031999999999999997,
+              "savings_percent": 16.07030759573132
+            },
+            "total": {
+              "json_cost": 0.00278775,
+              "toon_cost": 0.00233975,
+              "savings": 0.00044799999999999994,
+              "savings_percent": 16.07030759573132
+            }
+          },
+          "products": {
+            "input": {
+              "json_cost": 0.00547725,
+              "toon_cost": 0.004247,
+              "savings": 0.0012302500000000004,
+              "savings_percent": 22.461089050162037
+            },
+            "output": {
+              "json_cost": 0.0136925,
+              "toon_cost": 0.0106175,
+              "savings": 0.0030749999999999996,
+              "savings_percent": 22.457549753514694
+            },
+            "total": {
+              "json_cost": 0.01916975,
+              "toon_cost": 0.0148645,
+              "savings": 0.00430525,
+              "savings_percent": 22.458561014097732
+            }
+          }
+        },
+        "totals": {
+          "input": {
+            "json_cost": 0.0119965,
+            "toon_cost": 0.0093315,
+            "savings": 0.0026650000000000007,
+            "savings_percent": 22.214812653690664
+          },
+          "output": {
+            "json_cost": 0.02999,
+            "toon_cost": 0.02332875,
+            "savings": 0.0066612500000000005,
+            "savings_percent": 22.211570523507838
+          },
+          "combined": {
+            "json_cost": 0.041986499999999996,
+            "toon_cost": 0.03266025,
+            "savings": 0.009326250000000001,
+            "savings_percent": 22.212496873995217
+          }
+        }
+      }
+    }
+  },
+  "datasets": {},
+  "summary": {},
+  "projections": {
+    "openai": {
+      "gpt-4": {
+        "low": {
+          "monthly_tokens": 1000000,
+          "monthly_json_cost": 90.0,
+          "monthly_toon_cost": 71.592,
+          "monthly_savings": 18.408,
+          "annual_savings": 220.89600000000002,
+          "reduction_percent": 20.453333333333333
+        },
+        "medium": {
+          "monthly_tokens": 10000000,
+          "monthly_json_cost": 900.0,
+          "monthly_toon_cost": 715.9200000000001,
+          "monthly_savings": 184.07999999999993,
+          "annual_savings": 2208.959999999999,
+          "reduction_percent": 20.453333333333333
+        },
+        "high": {
+          "monthly_tokens": 100000000,
+          "monthly_json_cost": 9000.0,
+          "monthly_toon_cost": 7159.2,
+          "monthly_savings": 1840.8000000000002,
+          "annual_savings": 22089.600000000002,
+          "reduction_percent": 20.453333333333333
+        },
+        "enterprise": {
+          "monthly_tokens": 1000000000,
+          "monthly_json_cost": 90000.0,
+          "monthly_toon_cost": 71591.99999999999,
+          "monthly_savings": 18408.000000000015,
+          "annual_savings": 220896.00000000017,
+          "reduction_percent": 20.453333333333333
+        }
+      },
+      "gpt-4-turbo": {
+        "low": {
+          "monthly_tokens": 1000000,
+          "monthly_json_cost": 40.0,
+          "monthly_toon_cost": 31.818666666666665,
+          "monthly_savings": 8.181333333333335,
+          "annual_savings": 98.17600000000002,
+          "reduction_percent": 20.453333333333333
+        },
+        "medium": {
+          "monthly_tokens": 10000000,
+          "monthly_json_cost": 400.0,
+          "monthly_toon_cost": 318.18666666666667,
+          "monthly_savings": 81.81333333333333,
+          "annual_savings": 981.76,
+          "reduction_percent": 20.453333333333333
+        },
+        "high": {
+          "monthly_tokens": 100000000,
+          "monthly_json_cost": 4000.0,
+          "monthly_toon_cost": 3181.866666666667,
+          "monthly_savings": 818.1333333333332,
+          "annual_savings": 9817.599999999999,
+          "reduction_percent": 20.453333333333333
+        },
+        "enterprise": {
+          "monthly_tokens": 1000000000,
+          "monthly_json_cost": 40000.0,
+          "monthly_toon_cost": 31818.666666666664,
+          "monthly_savings": 8181.333333333336,
+          "annual_savings": 98176.00000000003,
+          "reduction_percent": 20.453333333333333
+        }
+      },
+      "gpt-3.5-turbo": {
+        "low": {
+          "monthly_tokens": 1000000,
+          "monthly_json_cost": 2.0,
+          "monthly_toon_cost": 1.5909333333333333,
+          "monthly_savings": 0.4090666666666667,
+          "annual_savings": 4.9088,
+          "reduction_percent": 20.453333333333333
+        },
+        "medium": {
+          "monthly_tokens": 10000000,
+          "monthly_json_cost": 20.0,
+          "monthly_toon_cost": 15.909333333333334,
+          "monthly_savings": 4.090666666666666,
+          "annual_savings": 49.08799999999999,
+          "reduction_percent": 20.453333333333333
+        },
+        "high": {
+          "monthly_tokens": 100000000,
+          "monthly_json_cost": 200.0,
+          "monthly_toon_cost": 159.09333333333333,
+          "monthly_savings": 40.906666666666666,
+          "annual_savings": 490.88,
+          "reduction_percent": 20.453333333333333
+        },
+        "enterprise": {
+          "monthly_tokens": 1000000000,
+          "monthly_json_cost": 2000.0,
+          "monthly_toon_cost": 1590.9333333333332,
+          "monthly_savings": 409.06666666666683,
+          "annual_savings": 4908.800000000002,
+          "reduction_percent": 20.453333333333333
+        }
+      }
+    },
+    "anthropic": {
+      "claude-3-opus": {
+        "low": {
+          "monthly_tokens": 1000000,
+          "monthly_json_cost": 90.0,
+          "monthly_toon_cost": 71.592,
+          "monthly_savings": 18.408,
+          "annual_savings": 220.89600000000002,
+          "reduction_percent": 20.453333333333333
+        },
+        "medium": {
+          "monthly_tokens": 10000000,
+          "monthly_json_cost": 900.0,
+          "monthly_toon_cost": 715.9200000000001,
+          "monthly_savings": 184.07999999999993,
+          "annual_savings": 2208.959999999999,
+          "reduction_percent": 20.453333333333333
+        },
+        "high": {
+          "monthly_tokens": 100000000,
+          "monthly_json_cost": 9000.0,
+          "monthly_toon_cost": 7159.2,
+          "monthly_savings": 1840.8000000000002,
+          "annual_savings": 22089.600000000002,
+          "reduction_percent": 20.453333333333333
+        },
+        "enterprise": {
+          "monthly_tokens": 1000000000,
+          "monthly_json_cost": 90000.0,
+          "monthly_toon_cost": 71591.99999999999,
+          "monthly_savings": 18408.000000000015,
+          "annual_savings": 220896.00000000017,
+          "reduction_percent": 20.453333333333333
+        }
+      },
+      "claude-3-sonnet": {
+        "low": {
+          "monthly_tokens": 1000000,
+          "monthly_json_cost": 18.0,
+          "monthly_toon_cost": 14.3184,
+          "monthly_savings": 3.6815999999999995,
+          "annual_savings": 44.179199999999994,
+          "reduction_percent": 20.453333333333333
+        },
+        "medium": {
+          "monthly_tokens": 10000000,
+          "monthly_json_cost": 180.0,
+          "monthly_toon_cost": 143.184,
+          "monthly_savings": 36.816,
+          "annual_savings": 441.79200000000003,
+          "reduction_percent": 20.453333333333333
+        },
+        "high": {
+          "monthly_tokens": 100000000,
+          "monthly_json_cost": 1800.0,
+          "monthly_toon_cost": 1431.84,
+          "monthly_savings": 368.1600000000001,
+          "annual_savings": 4417.920000000001,
+          "reduction_percent": 20.453333333333333
+        },
+        "enterprise": {
+          "monthly_tokens": 1000000000,
+          "monthly_json_cost": 18000.0,
+          "monthly_toon_cost": 14318.399999999998,
+          "monthly_savings": 3681.600000000002,
+          "annual_savings": 44179.200000000026,
+          "reduction_percent": 20.453333333333333
+        }
+      },
+      "claude-3-haiku": {
+        "low": {
+          "monthly_tokens": 1000000,
+          "monthly_json_cost": 1.5,
+          "monthly_toon_cost": 1.1932,
+          "monthly_savings": 0.30679999999999996,
+          "annual_savings": 3.6815999999999995,
+          "reduction_percent": 20.453333333333333
+        },
+        "medium": {
+          "monthly_tokens": 10000000,
+          "monthly_json_cost": 15.0,
+          "monthly_toon_cost": 11.932,
+          "monthly_savings": 3.0679999999999996,
+          "annual_savings": 36.815999999999995,
+          "reduction_percent": 20.453333333333333
+        },
+        "high": {
+          "monthly_tokens": 100000000,
+          "monthly_json_cost": 150.0,
+          "monthly_toon_cost": 119.32,
+          "monthly_savings": 30.680000000000007,
+          "annual_savings": 368.1600000000001,
+          "reduction_percent": 20.453333333333333
+        },
+        "enterprise": {
+          "monthly_tokens": 1000000000,
+          "monthly_json_cost": 1500.0,
+          "monthly_toon_cost": 1193.1999999999998,
+          "monthly_savings": 306.8000000000002,
+          "annual_savings": 3681.600000000002,
+          "reduction_percent": 20.453333333333333
+        }
+      }
+    }
+  }
+}

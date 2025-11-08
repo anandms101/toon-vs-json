@@ -1,0 +1,56 @@
+{
+  "users": {
+    "json": {
+      "openai_tokens": 22891,
+      "anthropic_tokens": 19042,
+      "char_count": 76170
+    },
+    "toon": {
+      "openai_tokens": 17664,
+      "anthropic_tokens": 15505,
+      "char_count": 62023
+    },
+    "reduction": {
+      "openai_percent": 22.83,
+      "anthropic_percent": 18.57,
+      "openai_tokens_saved": 5227,
+      "anthropic_tokens_saved": 3537
+    }
+  },
+  "api_response": {
+    "json": {
+      "openai_tokens": 3186,
+      "anthropic_tokens": 2327,
+      "char_count": 9310
+    },
+    "toon": {
+      "openai_tokens": 2674,
+      "anthropic_tokens": 1821,
+      "char_count": 7285
+    },
+    "reduction": {
+      "openai_percent": 16.07,
+      "anthropic_percent": 21.74,
+      "openai_tokens_saved": 512,
+      "anthropic_tokens_saved": 506
+    }
+  },
+  "products": {
+    "json": {
+      "openai_tokens": 21909,
+      "anthropic_tokens": 18983,
+      "char_count": 75935
+    },
+    "toon": {
+      "openai_tokens": 16988,
+      "anthropic_tokens": 15352,
+      "char_count": 61411
+    },
+    "reduction": {
+      "openai_percent": 22.46,
+      "anthropic_percent": 19.13,
+      "openai_tokens_saved": 4921,
+      "anthropic_tokens_saved": 3631
+    }
+  }
+}

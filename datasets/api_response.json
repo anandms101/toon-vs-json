@@ -1,0 +1,280 @@
+{
+  "repository": {
+    "id": 123456789,
+    "name": "awesome-project",
+    "full_name": "username/awesome-project",
+    "owner": {
+      "login": "username",
+      "id": 987654321,
+      "avatar_url": "https://avatars.githubusercontent.com/u/987654321?v=4",
+      "type": "User",
+      "site_admin": false
+    },
+    "private": false,
+    "html_url": "https://github.com/username/awesome-project",
+    "description": "An awesome project for demonstrating API responses with nested data structures",
+    "fork": false,
+    "url": "https://api.github.com/repos/username/awesome-project",
+    "created_at": "2023-01-15T10:30:00Z",
+    "updated_at": "2024-12-01T14:22:00Z",
+    "pushed_at": "2024-12-01T14:20:00Z",
+    "git_url": "git://github.com/username/awesome-project.git",
+    "ssh_url": "git@github.com:username/awesome-project.git",
+    "clone_url": "https://github.com/username/awesome-project.git",
+    "homepage": "https://awesome-project.example.com",
+    "size": 2048,
+    "stargazers_count": 1234,
+    "watchers_count": 89,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 456,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 23,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "topics": ["python", "api", "web-development", "rest", "json"],
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "network_count": 456,
+    "subscribers_count": 67
+  },
+  "commits": [
+    {
+      "sha": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0",
+      "node_id": "C_kwDOABC123",
+      "commit": {
+        "author": {
+          "name": "John Doe",
+          "email": "john.doe@example.com",
+          "date": "2024-12-01T14:20:00Z"
+        },
+        "committer": {
+          "name": "John Doe",
+          "email": "john.doe@example.com",
+          "date": "2024-12-01T14:20:00Z"
+        },
+        "message": "Add new feature for API response handling",
+        "tree": {
+          "sha": "b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1",
+          "url": "https://api.github.com/repos/username/awesome-project/git/trees/b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1"
+        },
+        "url": "https://api.github.com/repos/username/awesome-project/git/commits/a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0",
+        "comment_count": 0,
+        "verification": {
+          "verified": true,
+          "reason": "valid",
+          "signature": "-----BEGIN PGP SIGNATURE-----\n...\n-----END PGP SIGNATURE-----",
+          "payload": "tree b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1\n..."
+        }
+      },
+      "url": "https://api.github.com/repos/username/awesome-project/commits/a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0",
+      "html_url": "https://github.com/username/awesome-project/commit/a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0",
+      "comments_url": "https://api.github.com/repos/username/awesome-project/commits/a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0/comments",
+      "author": {
+        "login": "johndoe",
+        "id": 111222333,
+        "avatar_url": "https://avatars.githubusercontent.com/u/111222333?v=4",
+        "type": "User"
+      },
+      "committer": {
+        "login": "johndoe",
+        "id": 111222333,
+        "avatar_url": "https://avatars.githubusercontent.com/u/111222333?v=4",
+        "type": "User"
+      },
+      "parents": [
+        {
+          "sha": "z9y8x7w6v5u4t3s2r1q0p9o8n7m6l5k4j3i2h1g0",
+          "url": "https://api.github.com/repos/username/awesome-project/commits/z9y8x7w6v5u4t3s2r1q0p9o8n7m6l5k4j3i2h1g0",
+          "html_url": "https://github.com/username/awesome-project/commit/z9y8x7w6v5u4t3s2r1q0p9o8n7m6l5k4j3i2h1g0"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "additions": 120,
+        "deletions": 105
+      },
+      "files": [
+        {
+          "filename": "src/api/handler.py",
+          "status": "modified",
+          "additions": 45,
+          "deletions": 30,
+          "changes": 75,
+          "blob_url": "https://github.com/username/awesome-project/blob/a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0/src/api/handler.py",
+          "raw_url": "https://github.com/username/awesome-project/raw/a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0/src/api/handler.py",
+          "contents_url": "https://api.github.com/repos/username/awesome-project/contents/src/api/handler.py?ref=a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0"
+        },
+        {
+          "filename": "tests/test_api.py",
+          "status": "modified",
+          "additions": 75,
+          "deletions": 75,
+          "changes": 150,
+          "blob_url": "https://github.com/username/awesome-project/blob/a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0/tests/test_api.py",
+          "raw_url": "https://github.com/username/awesome-project/raw/a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0/tests/test_api.py",
+          "contents_url": "https://api.github.com/repos/username/awesome-project/contents/tests/test_api.py?ref=a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0"
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": 12345,
+      "number": 42,
+      "title": "Improve error handling in API responses",
+      "state": "open",
+      "locked": false,
+      "user": {
+        "login": "contributor1",
+        "id": 444555666,
+        "avatar_url": "https://avatars.githubusercontent.com/u/444555666?v=4",
+        "type": "User"
+      },
+      "body": "The current error handling could be improved to provide more detailed error messages to API consumers.",
+      "labels": [
+        {
+          "id": 111,
+          "name": "enhancement",
+          "color": "a2eeef",
+          "default": true
+        },
+        {
+          "id": 222,
+          "name": "api",
+          "color": "0052cc",
+          "default": false
+        }
+      ],
+      "assignee": {
+        "login": "username",
+        "id": 987654321,
+        "avatar_url": "https://avatars.githubusercontent.com/u/987654321?v=4",
+        "type": "User"
+      },
+      "assignees": [
+        {
+          "login": "username",
+          "id": 987654321,
+          "avatar_url": "https://avatars.githubusercontent.com/u/987654321?v=4",
+          "type": "User"
+        }
+      ],
+      "milestone": {
+        "id": 999,
+        "title": "v2.0.0",
+        "description": "Major release with API improvements",
+        "state": "open",
+        "created_at": "2024-11-01T00:00:00Z",
+        "updated_at": "2024-11-15T00:00:00Z",
+        "due_on": "2024-12-31T00:00:00Z",
+        "closed_at": null
+      },
+      "comments": 5,
+      "created_at": "2024-11-20T10:00:00Z",
+      "updated_at": "2024-11-25T15:30:00Z",
+      "closed_at": null,
+      "reactions": {
+        "url": "https://api.github.com/repos/username/awesome-project/issues/42/reactions",
+        "total_count": 8,
+        "+1": 5,
+        "-1": 0,
+        "laugh": 1,
+        "hooray": 2,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  ],
+  "pull_requests": [
+    {
+      "id": 54321,
+      "number": 15,
+      "title": "Add support for nested JSON structures",
+      "state": "open",
+      "locked": false,
+      "user": {
+        "login": "contributor2",
+        "id": 777888999,
+        "avatar_url": "https://avatars.githubusercontent.com/u/777888999?v=4",
+        "type": "User"
+      },
+      "body": "This PR adds comprehensive support for deeply nested JSON structures in the API response parser.",
+      "head": {
+        "label": "contributor2:feature/nested-json",
+        "ref": "feature/nested-json",
+        "sha": "c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2",
+        "user": {
+          "login": "contributor2",
+          "id": 777888999,
+          "avatar_url": "https://avatars.githubusercontent.com/u/777888999?v=4",
+          "type": "User"
+        },
+        "repo": {
+          "id": 999888777,
+          "name": "awesome-project",
+          "full_name": "contributor2/awesome-project",
+          "private": false
+        }
+      },
+      "base": {
+        "label": "username:main",
+        "ref": "main",
+        "sha": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0",
+        "user": {
+          "login": "username",
+          "id": 987654321,
+          "avatar_url": "https://avatars.githubusercontent.com/u/987654321?v=4",
+          "type": "User"
+        },
+        "repo": {
+          "id": 123456789,
+          "name": "awesome-project",
+          "full_name": "username/awesome-project",
+          "private": false
+        }
+      },
+      "merged": false,
+      "mergeable": true,
+      "rebaseable": true,
+      "mergeable_state": "clean",
+      "draft": false,
+      "commits": 3,
+      "additions": 250,
+      "deletions": 80,
+      "changed_files": 5,
+      "created_at": "2024-11-28T09:00:00Z",
+      "updated_at": "2024-12-01T12:00:00Z"
+    }
+  ],
+  "metadata": {
+    "api_version": "2022-11-28",
+    "rate_limit": {
+      "limit": 5000,
+      "remaining": 4890,
+      "reset": 1733059200
+    },
+    "request_id": "req-abc123def456",
+    "timestamp": "2024-12-01T14:22:00Z"
+  }
+}
+

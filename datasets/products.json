@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "prod_001",
+    "name": "Product 1 - Clothing Item",
+    "description": "High-quality clothing product with excellent features and performance",
+    "price": 160.1,
+    "currency": "USD",
+    "category": "Clothing",
+    "subcategory": "Bottoms",
+    "brand": "BrandC",
+    "sku": "BR-001",
+    "in_stock": true,
+    "stock_quantity": 96,
+    "rating": 4.0,
+    "review_count": 4932,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Metal",
+      "weight": "778g",
+      "dimensions": "5 x 17 x 1 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "4-7 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_002",
+    "name": "Product 2 - Clothing Item",
+    "description": "High-quality clothing product with excellent features and performance",
+    "price": 380.65,
+    "currency": "USD",
+    "category": "Clothing",
+    "subcategory": "Bottoms",
+    "brand": "BrandG",
+    "sku": "BR-002",
+    "in_stock": false,
+    "stock_quantity": 182,
+    "rating": 4.5,
+    "review_count": 2729,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Wood",
+      "weight": "452g",
+      "dimensions": "5 x 6 x 4 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "4-7 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_003",
+    "name": "Product 3 - Sports & Outdoors Item",
+    "description": "High-quality sports & outdoors product with excellent features and performance",
+    "price": 282.17,
+    "currency": "USD",
+    "category": "Sports & Outdoors",
+    "subcategory": "Footwear",
+    "brand": "BrandF",
+    "sku": "BR-003",
+    "in_stock": true,
+    "stock_quantity": 54,
+    "rating": 4.0,
+    "review_count": 3711,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "1603g",
+      "dimensions": "19 x 7 x 9 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "2-5 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_004",
+    "name": "Product 4 - Toys Item",
+    "description": "High-quality toys product with excellent features and performance",
+    "price": 208.96,
+    "currency": "USD",
+    "category": "Toys",
+    "subcategory": "Outdoor",
+    "brand": "BrandH",
+    "sku": "BR-004",
+    "in_stock": true,
+    "stock_quantity": 139,
+    "rating": 3.7,
+    "review_count": 4009,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Fabric",
+      "weight": "1414g",
+      "dimensions": "13 x 12 x 7 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "5-6 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_005",
+    "name": "Product 5 - Home & Kitchen Item",
+    "description": "High-quality home & kitchen product with excellent features and performance",
+    "price": 217.2,
+    "currency": "USD",
+    "category": "Home & Kitchen",
+    "subcategory": "Decor",
+    "brand": "BrandD",
+    "sku": "BR-005",
+    "in_stock": true,
+    "stock_quantity": 468,
+    "rating": 4.0,
+    "review_count": 4669,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "891g",
+      "dimensions": "15 x 12 x 9 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "1-3 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_006",
+    "name": "Product 6 - Electronics Item",
+    "description": "High-quality electronics product with excellent features and performance",
+    "price": 334.32,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Mobile",
+    "brand": "BrandF",
+    "sku": "BR-006",
+    "in_stock": true,
+    "stock_quantity": 389,
+    "rating": 4.1,
+    "review_count": 3668,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "1294g",
+      "dimensions": "6 x 5 x 8 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "2-2 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_007",
+    "name": "Product 7 - Automotive Item",
+    "description": "High-quality automotive product with excellent features and performance",
+    "price": 398.88,
+    "currency": "USD",
+    "category": "Automotive",
+    "subcategory": "Accessories",
+    "brand": "BrandF",
+    "sku": "BR-007",
+    "in_stock": true,
+    "stock_quantity": 254,
+    "rating": 4.9,
+    "review_count": 383,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Fabric",
+      "weight": "743g",
+      "dimensions": "13 x 13 x 6 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "2-3 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_008",
+    "name": "Product 8 - Books Item",
+    "description": "High-quality books product with excellent features and performance",
+    "price": 310.03,
+    "currency": "USD",
+    "category": "Books",
+    "subcategory": "Non-Fiction",
+    "brand": "BrandE",
+    "sku": "BR-008",
+    "in_stock": true,
+    "stock_quantity": 345,
+    "rating": 4.7,
+    "review_count": 2250,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "467g",
+      "dimensions": "6 x 15 x 7 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "1-6 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_009",
+    "name": "Product 9 - Clothing Item",
+    "description": "High-quality clothing product with excellent features and performance",
+    "price": 98.76,
+    "currency": "USD",
+    "category": "Clothing",
+    "subcategory": "Tops",
+    "brand": "BrandF",
+    "sku": "BR-009",
+    "in_stock": false,
+    "stock_quantity": 427,
+    "rating": 4.9,
+    "review_count": 4156,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "203g",
+      "dimensions": "12 x 13 x 9 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "5-6 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_010",
+    "name": "Product 10 - Books Item",
+    "description": "High-quality books product with excellent features and performance",
+    "price": 495.73,
+    "currency": "USD",
+    "category": "Books",
+    "subcategory": "Non-Fiction",
+    "brand": "BrandB",
+    "sku": "BR-010",
+    "in_stock": true,
+    "stock_quantity": 205,
+    "rating": 4.9,
+    "review_count": 328,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "711g",
+      "dimensions": "12 x 8 x 5 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "1-6 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_011",
+    "name": "Product 11 - Electronics Item",
+    "description": "High-quality electronics product with excellent features and performance",
+    "price": 219.39,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "brand": "BrandF",
+    "sku": "BR-011",
+    "in_stock": true,
+    "stock_quantity": 415,
+    "rating": 3.7,
+    "review_count": 2231,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Fabric",
+      "weight": "743g",
+      "dimensions": "17 x 10 x 3 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "1-5 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_012",
+    "name": "Product 12 - Sports & Outdoors Item",
+    "description": "High-quality sports & outdoors product with excellent features and performance",
+    "price": 144.52,
+    "currency": "USD",
+    "category": "Sports & Outdoors",
+    "subcategory": "Fitness",
+    "brand": "BrandH",
+    "sku": "BR-012",
+    "in_stock": true,
+    "stock_quantity": 51,
+    "rating": 3.9,
+    "review_count": 3466,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "1042g",
+      "dimensions": "20 x 14 x 6 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "2-2 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_013",
+    "name": "Product 13 - Automotive Item",
+    "description": "High-quality automotive product with excellent features and performance",
+    "price": 354.22,
+    "currency": "USD",
+    "category": "Automotive",
+    "subcategory": "Tools",
+    "brand": "BrandG",
+    "sku": "BR-013",
+    "in_stock": true,
+    "stock_quantity": 371,
+    "rating": 4.7,
+    "review_count": 3912,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Metal",
+      "weight": "699g",
+      "dimensions": "6 x 6 x 6 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "3-5 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_014",
+    "name": "Product 14 - Sports & Outdoors Item",
+    "description": "High-quality sports & outdoors product with excellent features and performance",
+    "price": 406.86,
+    "currency": "USD",
+    "category": "Sports & Outdoors",
+    "subcategory": "Camping",
+    "brand": "BrandF",
+    "sku": "BR-014",
+    "in_stock": false,
+    "stock_quantity": 113,
+    "rating": 4.0,
+    "review_count": 2589,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "1685g",
+      "dimensions": "5 x 8 x 1 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "5-5 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_015",
+    "name": "Product 15 - Toys Item",
+    "description": "High-quality toys product with excellent features and performance",
+    "price": 464.37,
+    "currency": "USD",
+    "category": "Toys",
+    "subcategory": "Outdoor",
+    "brand": "BrandG",
+    "sku": "BR-015",
+    "in_stock": false,
+    "stock_quantity": 118,
+    "rating": 3.6,
+    "review_count": 4262,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Wood",
+      "weight": "564g",
+      "dimensions": "14 x 8 x 9 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "4-6 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_016",
+    "name": "Product 16 - Electronics Item",
+    "description": "High-quality electronics product with excellent features and performance",
+    "price": 144.43,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Gaming",
+    "brand": "BrandB",
+    "sku": "BR-016",
+    "in_stock": true,
+    "stock_quantity": 339,
+    "rating": 4.4,
+    "review_count": 4118,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "752g",
+      "dimensions": "7 x 17 x 2 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "2-6 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_017",
+    "name": "Product 17 - Automotive Item",
+    "description": "High-quality automotive product with excellent features and performance",
+    "price": 309.93,
+    "currency": "USD",
+    "category": "Automotive",
+    "subcategory": "Parts",
+    "brand": "BrandE",
+    "sku": "BR-017",
+    "in_stock": true,
+    "stock_quantity": 180,
+    "rating": 4.5,
+    "review_count": 2720,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "421g",
+      "dimensions": "18 x 9 x 3 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "2-7 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_018",
+    "name": "Product 18 - Books Item",
+    "description": "High-quality books product with excellent features and performance",
+    "price": 316.27,
+    "currency": "USD",
+    "category": "Books",
+    "subcategory": "Educational",
+    "brand": "BrandE",
+    "sku": "BR-018",
+    "in_stock": true,
+    "stock_quantity": 430,
+    "rating": 4.3,
+    "review_count": 4509,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Wood",
+      "weight": "1695g",
+      "dimensions": "13 x 15 x 5 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "2-5 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_019",
+    "name": "Product 19 - Electronics Item",
+    "description": "High-quality electronics product with excellent features and performance",
+    "price": 496.59,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Wearables",
+    "brand": "BrandG",
+    "sku": "BR-019",
+    "in_stock": true,
+    "stock_quantity": 109,
+    "rating": 4.1,
+    "review_count": 2010,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "334g",
+      "dimensions": "16 x 11 x 4 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "1-4 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_020",
+    "name": "Product 20 - Automotive Item",
+    "description": "High-quality automotive product with excellent features and performance",
+    "price": 374.25,
+    "currency": "USD",
+    "category": "Automotive",
+    "subcategory": "Accessories",
+    "brand": "BrandE",
+    "sku": "BR-020",
+    "in_stock": true,
+    "stock_quantity": 110,
+    "rating": 4.3,
+    "review_count": 1751,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Metal",
+      "weight": "1760g",
+      "dimensions": "11 x 9 x 6 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "1-7 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_021",
+    "name": "Product 21 - Electronics Item",
+    "description": "High-quality electronics product with excellent features and performance",
+    "price": 480.17,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "brand": "BrandG",
+    "sku": "BR-021",
+    "in_stock": true,
+    "stock_quantity": 405,
+    "rating": 3.8,
+    "review_count": 3675,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Wood",
+      "weight": "408g",
+      "dimensions": "6 x 12 x 8 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "3-6 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_022",
+    "name": "Product 22 - Automotive Item",
+    "description": "High-quality automotive product with excellent features and performance",
+    "price": 84.4,
+    "currency": "USD",
+    "category": "Automotive",
+    "subcategory": "Accessories",
+    "brand": "BrandC",
+    "sku": "BR-022",
+    "in_stock": false,
+    "stock_quantity": 471,
+    "rating": 5.0,
+    "review_count": 4175,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "1331g",
+      "dimensions": "19 x 7 x 1 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "1-5 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_023",
+    "name": "Product 23 - Automotive Item",
+    "description": "High-quality automotive product with excellent features and performance",
+    "price": 111.78,
+    "currency": "USD",
+    "category": "Automotive",
+    "subcategory": "Tools",
+    "brand": "BrandD",
+    "sku": "BR-023",
+    "in_stock": true,
+    "stock_quantity": 139,
+    "rating": 4.9,
+    "review_count": 1963,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "162g",
+      "dimensions": "7 x 17 x 9 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "1-4 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_024",
+    "name": "Product 24 - Electronics Item",
+    "description": "High-quality electronics product with excellent features and performance",
+    "price": 431.84,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "brand": "BrandC",
+    "sku": "BR-024",
+    "in_stock": true,
+    "stock_quantity": 216,
+    "rating": 3.8,
+    "review_count": 3489,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "220g",
+      "dimensions": "11 x 19 x 7 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "1-7 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_025",
+    "name": "Product 25 - Books Item",
+    "description": "High-quality books product with excellent features and performance",
+    "price": 47.25,
+    "currency": "USD",
+    "category": "Books",
+    "subcategory": "Educational",
+    "brand": "BrandB",
+    "sku": "BR-025",
+    "in_stock": true,
+    "stock_quantity": 335,
+    "rating": 4.9,
+    "review_count": 2302,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Wood",
+      "weight": "1544g",
+      "dimensions": "16 x 17 x 7 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "5-6 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_026",
+    "name": "Product 26 - Electronics Item",
+    "description": "High-quality electronics product with excellent features and performance",
+    "price": 396.45,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Wearables",
+    "brand": "BrandA",
+    "sku": "BR-026",
+    "in_stock": true,
+    "stock_quantity": 214,
+    "rating": 4.8,
+    "review_count": 3446,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "91g",
+      "dimensions": "7 x 8 x 9 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "4-3 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_027",
+    "name": "Product 27 - Toys Item",
+    "description": "High-quality toys product with excellent features and performance",
+    "price": 408.01,
+    "currency": "USD",
+    "category": "Toys",
+    "subcategory": "Educational",
+    "brand": "BrandH",
+    "sku": "BR-027",
+    "in_stock": true,
+    "stock_quantity": 99,
+    "rating": 4.8,
+    "review_count": 3836,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Wood",
+      "weight": "1684g",
+      "dimensions": "16 x 16 x 1 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "5-7 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_028",
+    "name": "Product 28 - Books Item",
+    "description": "High-quality books product with excellent features and performance",
+    "price": 312.02,
+    "currency": "USD",
+    "category": "Books",
+    "subcategory": "Non-Fiction",
+    "brand": "BrandC",
+    "sku": "BR-028",
+    "in_stock": true,
+    "stock_quantity": 1,
+    "rating": 4.7,
+    "review_count": 2635,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "1766g",
+      "dimensions": "5 x 16 x 4 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "4-7 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_029",
+    "name": "Product 29 - Automotive Item",
+    "description": "High-quality automotive product with excellent features and performance",
+    "price": 13.11,
+    "currency": "USD",
+    "category": "Automotive",
+    "subcategory": "Maintenance",
+    "brand": "BrandB",
+    "sku": "BR-029",
+    "in_stock": false,
+    "stock_quantity": 367,
+    "rating": 3.8,
+    "review_count": 3666,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "969g",
+      "dimensions": "14 x 5 x 7 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "5-4 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_030",
+    "name": "Product 30 - Toys Item",
+    "description": "High-quality toys product with excellent features and performance",
+    "price": 465.16,
+    "currency": "USD",
+    "category": "Toys",
+    "subcategory": "Action Figures",
+    "brand": "BrandA",
+    "sku": "BR-030",
+    "in_stock": true,
+    "stock_quantity": 9,
+    "rating": 4.5,
+    "review_count": 2839,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "195g",
+      "dimensions": "15 x 7 x 8 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "3-5 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_031",
+    "name": "Product 31 - Toys Item",
+    "description": "High-quality toys product with excellent features and performance",
+    "price": 134.85,
+    "currency": "USD",
+    "category": "Toys",
+    "subcategory": "Outdoor",
+    "brand": "BrandG",
+    "sku": "BR-031",
+    "in_stock": true,
+    "stock_quantity": 83,
+    "rating": 3.7,
+    "review_count": 4997,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Wood",
+      "weight": "1909g",
+      "dimensions": "9 x 20 x 1 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "1-6 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_032",
+    "name": "Product 32 - Home & Kitchen Item",
+    "description": "High-quality home & kitchen product with excellent features and performance",
+    "price": 107.36,
+    "currency": "USD",
+    "category": "Home & Kitchen",
+    "subcategory": "Cookware",
+    "brand": "BrandG",
+    "sku": "BR-032",
+    "in_stock": false,
+    "stock_quantity": 338,
+    "rating": 4.5,
+    "review_count": 2685,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "1923g",
+      "dimensions": "5 x 12 x 2 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "4-7 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_033",
+    "name": "Product 33 - Sports & Outdoors Item",
+    "description": "High-quality sports & outdoors product with excellent features and performance",
+    "price": 88.78,
+    "currency": "USD",
+    "category": "Sports & Outdoors",
+    "subcategory": "Fitness",
+    "brand": "BrandD",
+    "sku": "BR-033",
+    "in_stock": true,
+    "stock_quantity": 58,
+    "rating": 4.1,
+    "review_count": 4257,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Fabric",
+      "weight": "856g",
+      "dimensions": "20 x 16 x 4 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "4-4 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_034",
+    "name": "Product 34 - Beauty Item",
+    "description": "High-quality beauty product with excellent features and performance",
+    "price": 397.92,
+    "currency": "USD",
+    "category": "Beauty",
+    "subcategory": "Fragrance",
+    "brand": "BrandG",
+    "sku": "BR-034",
+    "in_stock": true,
+    "stock_quantity": 386,
+    "rating": 4.7,
+    "review_count": 774,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Fabric",
+      "weight": "1008g",
+      "dimensions": "7 x 16 x 1 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "4-3 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_035",
+    "name": "Product 35 - Home & Kitchen Item",
+    "description": "High-quality home & kitchen product with excellent features and performance",
+    "price": 17.09,
+    "currency": "USD",
+    "category": "Home & Kitchen",
+    "subcategory": "Cookware",
+    "brand": "BrandA",
+    "sku": "BR-035",
+    "in_stock": true,
+    "stock_quantity": 49,
+    "rating": 3.7,
+    "review_count": 3506,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Metal",
+      "weight": "1409g",
+      "dimensions": "19 x 11 x 10 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "2-4 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_036",
+    "name": "Product 36 - Toys Item",
+    "description": "High-quality toys product with excellent features and performance",
+    "price": 467.62,
+    "currency": "USD",
+    "category": "Toys",
+    "subcategory": "Educational",
+    "brand": "BrandE",
+    "sku": "BR-036",
+    "in_stock": false,
+    "stock_quantity": 267,
+    "rating": 3.6,
+    "review_count": 1769,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "881g",
+      "dimensions": "19 x 7 x 2 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "1-3 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_037",
+    "name": "Product 37 - Home & Kitchen Item",
+    "description": "High-quality home & kitchen product with excellent features and performance",
+    "price": 162.56,
+    "currency": "USD",
+    "category": "Home & Kitchen",
+    "subcategory": "Decor",
+    "brand": "BrandH",
+    "sku": "BR-037",
+    "in_stock": true,
+    "stock_quantity": 313,
+    "rating": 5.0,
+    "review_count": 3767,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Fabric",
+      "weight": "1977g",
+      "dimensions": "17 x 20 x 3 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "4-4 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_038",
+    "name": "Product 38 - Home & Kitchen Item",
+    "description": "High-quality home & kitchen product with excellent features and performance",
+    "price": 46.33,
+    "currency": "USD",
+    "category": "Home & Kitchen",
+    "subcategory": "Furniture",
+    "brand": "BrandF",
+    "sku": "BR-038",
+    "in_stock": true,
+    "stock_quantity": 370,
+    "rating": 4.6,
+    "review_count": 3699,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "320g",
+      "dimensions": "7 x 19 x 5 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "4-6 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_039",
+    "name": "Product 39 - Toys Item",
+    "description": "High-quality toys product with excellent features and performance",
+    "price": 216.86,
+    "currency": "USD",
+    "category": "Toys",
+    "subcategory": "Action Figures",
+    "brand": "BrandC",
+    "sku": "BR-039",
+    "in_stock": true,
+    "stock_quantity": 332,
+    "rating": 4.0,
+    "review_count": 2710,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "1594g",
+      "dimensions": "19 x 19 x 4 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "5-4 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_040",
+    "name": "Product 40 - Sports & Outdoors Item",
+    "description": "High-quality sports & outdoors product with excellent features and performance",
+    "price": 416.32,
+    "currency": "USD",
+    "category": "Sports & Outdoors",
+    "subcategory": "Outdoor Gear",
+    "brand": "BrandF",
+    "sku": "BR-040",
+    "in_stock": true,
+    "stock_quantity": 4,
+    "rating": 4.5,
+    "review_count": 2820,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Metal",
+      "weight": "582g",
+      "dimensions": "16 x 20 x 1 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "3-4 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_041",
+    "name": "Product 41 - Toys Item",
+    "description": "High-quality toys product with excellent features and performance",
+    "price": 54.39,
+    "currency": "USD",
+    "category": "Toys",
+    "subcategory": "Board Games",
+    "brand": "BrandE",
+    "sku": "BR-041",
+    "in_stock": true,
+    "stock_quantity": 94,
+    "rating": 3.8,
+    "review_count": 3073,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "1536g",
+      "dimensions": "11 x 7 x 9 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "2-6 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_042",
+    "name": "Product 42 - Electronics Item",
+    "description": "High-quality electronics product with excellent features and performance",
+    "price": 120.75,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "brand": "BrandD",
+    "sku": "BR-042",
+    "in_stock": true,
+    "stock_quantity": 406,
+    "rating": 4.3,
+    "review_count": 250,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "1752g",
+      "dimensions": "19 x 11 x 1 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "3-5 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_043",
+    "name": "Product 43 - Clothing Item",
+    "description": "High-quality clothing product with excellent features and performance",
+    "price": 101.81,
+    "currency": "USD",
+    "category": "Clothing",
+    "subcategory": "Accessories",
+    "brand": "BrandG",
+    "sku": "BR-043",
+    "in_stock": true,
+    "stock_quantity": 80,
+    "rating": 3.9,
+    "review_count": 2940,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "129g",
+      "dimensions": "8 x 15 x 1 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "2-5 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_044",
+    "name": "Product 44 - Automotive Item",
+    "description": "High-quality automotive product with excellent features and performance",
+    "price": 242.62,
+    "currency": "USD",
+    "category": "Automotive",
+    "subcategory": "Maintenance",
+    "brand": "BrandG",
+    "sku": "BR-044",
+    "in_stock": true,
+    "stock_quantity": 412,
+    "rating": 3.8,
+    "review_count": 4372,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Fabric",
+      "weight": "1815g",
+      "dimensions": "10 x 10 x 6 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "3-3 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_045",
+    "name": "Product 45 - Electronics Item",
+    "description": "High-quality electronics product with excellent features and performance",
+    "price": 341.24,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Computer Accessories",
+    "brand": "BrandC",
+    "sku": "BR-045",
+    "in_stock": true,
+    "stock_quantity": 40,
+    "rating": 4.2,
+    "review_count": 578,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "1082g",
+      "dimensions": "8 x 17 x 6 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "1-2 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_046",
+    "name": "Product 46 - Beauty Item",
+    "description": "High-quality beauty product with excellent features and performance",
+    "price": 446.34,
+    "currency": "USD",
+    "category": "Beauty",
+    "subcategory": "Makeup",
+    "brand": "BrandD",
+    "sku": "BR-046",
+    "in_stock": true,
+    "stock_quantity": 483,
+    "rating": 4.9,
+    "review_count": 2815,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "475g",
+      "dimensions": "14 x 9 x 2 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "5-7 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_047",
+    "name": "Product 47 - Sports & Outdoors Item",
+    "description": "High-quality sports & outdoors product with excellent features and performance",
+    "price": 354.39,
+    "currency": "USD",
+    "category": "Sports & Outdoors",
+    "subcategory": "Camping",
+    "brand": "BrandC",
+    "sku": "BR-047",
+    "in_stock": true,
+    "stock_quantity": 276,
+    "rating": 4.5,
+    "review_count": 4166,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "1364g",
+      "dimensions": "6 x 14 x 7 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "3-4 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_048",
+    "name": "Product 48 - Home & Kitchen Item",
+    "description": "High-quality home & kitchen product with excellent features and performance",
+    "price": 121.9,
+    "currency": "USD",
+    "category": "Home & Kitchen",
+    "subcategory": "Furniture",
+    "brand": "BrandH",
+    "sku": "BR-048",
+    "in_stock": true,
+    "stock_quantity": 353,
+    "rating": 4.4,
+    "review_count": 462,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Wood",
+      "weight": "1067g",
+      "dimensions": "7 x 8 x 5 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "5-5 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_049",
+    "name": "Product 49 - Clothing Item",
+    "description": "High-quality clothing product with excellent features and performance",
+    "price": 106.87,
+    "currency": "USD",
+    "category": "Clothing",
+    "subcategory": "Outerwear",
+    "brand": "BrandD",
+    "sku": "BR-049",
+    "in_stock": true,
+    "stock_quantity": 14,
+    "rating": 4.4,
+    "review_count": 4928,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "83g",
+      "dimensions": "19 x 6 x 9 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "4-7 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_050",
+    "name": "Product 50 - Electronics Item",
+    "description": "High-quality electronics product with excellent features and performance",
+    "price": 84.42,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Mobile",
+    "brand": "BrandD",
+    "sku": "BR-050",
+    "in_stock": true,
+    "stock_quantity": 57,
+    "rating": 4.0,
+    "review_count": 4143,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "1157g",
+      "dimensions": "14 x 9 x 1 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "4-2 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_051",
+    "name": "Product 51 - Automotive Item",
+    "description": "High-quality automotive product with excellent features and performance",
+    "price": 85.37,
+    "currency": "USD",
+    "category": "Automotive",
+    "subcategory": "Accessories",
+    "brand": "BrandF",
+    "sku": "BR-051",
+    "in_stock": true,
+    "stock_quantity": 76,
+    "rating": 4.0,
+    "review_count": 2540,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Wood",
+      "weight": "463g",
+      "dimensions": "14 x 11 x 1 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "1-3 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_052",
+    "name": "Product 52 - Home & Kitchen Item",
+    "description": "High-quality home & kitchen product with excellent features and performance",
+    "price": 253.45,
+    "currency": "USD",
+    "category": "Home & Kitchen",
+    "subcategory": "Decor",
+    "brand": "BrandE",
+    "sku": "BR-052",
+    "in_stock": true,
+    "stock_quantity": 244,
+    "rating": 4.3,
+    "review_count": 2011,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Fabric",
+      "weight": "681g",
+      "dimensions": "12 x 18 x 9 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "3-4 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_053",
+    "name": "Product 53 - Beauty Item",
+    "description": "High-quality beauty product with excellent features and performance",
+    "price": 183.71,
+    "currency": "USD",
+    "category": "Beauty",
+    "subcategory": "Fragrance",
+    "brand": "BrandD",
+    "sku": "BR-053",
+    "in_stock": true,
+    "stock_quantity": 301,
+    "rating": 4.6,
+    "review_count": 4775,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Metal",
+      "weight": "1734g",
+      "dimensions": "5 x 16 x 4 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "4-4 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_054",
+    "name": "Product 54 - Toys Item",
+    "description": "High-quality toys product with excellent features and performance",
+    "price": 443.7,
+    "currency": "USD",
+    "category": "Toys",
+    "subcategory": "Board Games",
+    "brand": "BrandH",
+    "sku": "BR-054",
+    "in_stock": true,
+    "stock_quantity": 74,
+    "rating": 4.3,
+    "review_count": 1990,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Fabric",
+      "weight": "453g",
+      "dimensions": "18 x 9 x 2 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "4-2 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_055",
+    "name": "Product 55 - Books Item",
+    "description": "High-quality books product with excellent features and performance",
+    "price": 169.64,
+    "currency": "USD",
+    "category": "Books",
+    "subcategory": "Fiction",
+    "brand": "BrandE",
+    "sku": "BR-055",
+    "in_stock": true,
+    "stock_quantity": 6,
+    "rating": 4.1,
+    "review_count": 1468,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Fabric",
+      "weight": "1440g",
+      "dimensions": "20 x 19 x 2 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "2-2 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_056",
+    "name": "Product 56 - Beauty Item",
+    "description": "High-quality beauty product with excellent features and performance",
+    "price": 247.91,
+    "currency": "USD",
+    "category": "Beauty",
+    "subcategory": "Hair Care",
+    "brand": "BrandG",
+    "sku": "BR-056",
+    "in_stock": true,
+    "stock_quantity": 373,
+    "rating": 3.8,
+    "review_count": 3879,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Metal",
+      "weight": "1386g",
+      "dimensions": "7 x 9 x 1 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "4-7 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_057",
+    "name": "Product 57 - Electronics Item",
+    "description": "High-quality electronics product with excellent features and performance",
+    "price": 325.63,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Computer Accessories",
+    "brand": "BrandF",
+    "sku": "BR-057",
+    "in_stock": true,
+    "stock_quantity": 169,
+    "rating": 4.5,
+    "review_count": 1579,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "1539g",
+      "dimensions": "11 x 14 x 9 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "3-5 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_058",
+    "name": "Product 58 - Books Item",
+    "description": "High-quality books product with excellent features and performance",
+    "price": 218.52,
+    "currency": "USD",
+    "category": "Books",
+    "subcategory": "Non-Fiction",
+    "brand": "BrandE",
+    "sku": "BR-058",
+    "in_stock": true,
+    "stock_quantity": 216,
+    "rating": 4.7,
+    "review_count": 1265,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Wood",
+      "weight": "908g",
+      "dimensions": "7 x 5 x 10 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "3-3 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_059",
+    "name": "Product 59 - Automotive Item",
+    "description": "High-quality automotive product with excellent features and performance",
+    "price": 118.8,
+    "currency": "USD",
+    "category": "Automotive",
+    "subcategory": "Parts",
+    "brand": "BrandD",
+    "sku": "BR-059",
+    "in_stock": false,
+    "stock_quantity": 394,
+    "rating": 4.8,
+    "review_count": 3097,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "1466g",
+      "dimensions": "10 x 13 x 3 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "2-5 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_060",
+    "name": "Product 60 - Clothing Item",
+    "description": "High-quality clothing product with excellent features and performance",
+    "price": 453.59,
+    "currency": "USD",
+    "category": "Clothing",
+    "subcategory": "Tops",
+    "brand": "BrandD",
+    "sku": "BR-060",
+    "in_stock": true,
+    "stock_quantity": 92,
+    "rating": 4.9,
+    "review_count": 2164,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Metal",
+      "weight": "153g",
+      "dimensions": "15 x 16 x 5 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "5-2 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_061",
+    "name": "Product 61 - Books Item",
+    "description": "High-quality books product with excellent features and performance",
+    "price": 197.89,
+    "currency": "USD",
+    "category": "Books",
+    "subcategory": "Educational",
+    "brand": "BrandH",
+    "sku": "BR-061",
+    "in_stock": true,
+    "stock_quantity": 206,
+    "rating": 3.9,
+    "review_count": 2373,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Metal",
+      "weight": "1389g",
+      "dimensions": "20 x 18 x 5 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "1-4 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_062",
+    "name": "Product 62 - Automotive Item",
+    "description": "High-quality automotive product with excellent features and performance",
+    "price": 240.11,
+    "currency": "USD",
+    "category": "Automotive",
+    "subcategory": "Accessories",
+    "brand": "BrandB",
+    "sku": "BR-062",
+    "in_stock": true,
+    "stock_quantity": 41,
+    "rating": 4.5,
+    "review_count": 1559,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Fabric",
+      "weight": "339g",
+      "dimensions": "14 x 7 x 10 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "2-4 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_063",
+    "name": "Product 63 - Home & Kitchen Item",
+    "description": "High-quality home & kitchen product with excellent features and performance",
+    "price": 340.66,
+    "currency": "USD",
+    "category": "Home & Kitchen",
+    "subcategory": "Drinkware",
+    "brand": "BrandE",
+    "sku": "BR-063",
+    "in_stock": true,
+    "stock_quantity": 267,
+    "rating": 4.0,
+    "review_count": 175,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "819g",
+      "dimensions": "11 x 18 x 10 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "2-2 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_064",
+    "name": "Product 64 - Beauty Item",
+    "description": "High-quality beauty product with excellent features and performance",
+    "price": 274.49,
+    "currency": "USD",
+    "category": "Beauty",
+    "subcategory": "Makeup",
+    "brand": "BrandC",
+    "sku": "BR-064",
+    "in_stock": false,
+    "stock_quantity": 280,
+    "rating": 4.4,
+    "review_count": 2328,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "818g",
+      "dimensions": "5 x 6 x 7 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "2-3 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_065",
+    "name": "Product 65 - Beauty Item",
+    "description": "High-quality beauty product with excellent features and performance",
+    "price": 98.49,
+    "currency": "USD",
+    "category": "Beauty",
+    "subcategory": "Skincare",
+    "brand": "BrandA",
+    "sku": "BR-065",
+    "in_stock": true,
+    "stock_quantity": 188,
+    "rating": 3.9,
+    "review_count": 111,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "433g",
+      "dimensions": "10 x 20 x 8 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "3-3 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_066",
+    "name": "Product 66 - Sports & Outdoors Item",
+    "description": "High-quality sports & outdoors product with excellent features and performance",
+    "price": 330.05,
+    "currency": "USD",
+    "category": "Sports & Outdoors",
+    "subcategory": "Fitness",
+    "brand": "BrandB",
+    "sku": "BR-066",
+    "in_stock": true,
+    "stock_quantity": 242,
+    "rating": 5.0,
+    "review_count": 1262,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "546g",
+      "dimensions": "18 x 5 x 5 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "2-5 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_067",
+    "name": "Product 67 - Clothing Item",
+    "description": "High-quality clothing product with excellent features and performance",
+    "price": 298.67,
+    "currency": "USD",
+    "category": "Clothing",
+    "subcategory": "Tops",
+    "brand": "BrandE",
+    "sku": "BR-067",
+    "in_stock": true,
+    "stock_quantity": 461,
+    "rating": 3.6,
+    "review_count": 254,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "1477g",
+      "dimensions": "11 x 17 x 8 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "4-3 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_068",
+    "name": "Product 68 - Clothing Item",
+    "description": "High-quality clothing product with excellent features and performance",
+    "price": 414.75,
+    "currency": "USD",
+    "category": "Clothing",
+    "subcategory": "Bottoms",
+    "brand": "BrandC",
+    "sku": "BR-068",
+    "in_stock": false,
+    "stock_quantity": 59,
+    "rating": 4.2,
+    "review_count": 2904,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "697g",
+      "dimensions": "10 x 6 x 4 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "4-4 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_069",
+    "name": "Product 69 - Clothing Item",
+    "description": "High-quality clothing product with excellent features and performance",
+    "price": 238.01,
+    "currency": "USD",
+    "category": "Clothing",
+    "subcategory": "Bottoms",
+    "brand": "BrandB",
+    "sku": "BR-069",
+    "in_stock": true,
+    "stock_quantity": 393,
+    "rating": 4.3,
+    "review_count": 1380,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "363g",
+      "dimensions": "9 x 15 x 2 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "2-6 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_070",
+    "name": "Product 70 - Automotive Item",
+    "description": "High-quality automotive product with excellent features and performance",
+    "price": 362.75,
+    "currency": "USD",
+    "category": "Automotive",
+    "subcategory": "Parts",
+    "brand": "BrandC",
+    "sku": "BR-070",
+    "in_stock": true,
+    "stock_quantity": 152,
+    "rating": 4.0,
+    "review_count": 1670,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Wood",
+      "weight": "875g",
+      "dimensions": "14 x 15 x 3 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "2-3 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_071",
+    "name": "Product 71 - Sports & Outdoors Item",
+    "description": "High-quality sports & outdoors product with excellent features and performance",
+    "price": 152.3,
+    "currency": "USD",
+    "category": "Sports & Outdoors",
+    "subcategory": "Footwear",
+    "brand": "BrandB",
+    "sku": "BR-071",
+    "in_stock": true,
+    "stock_quantity": 453,
+    "rating": 3.9,
+    "review_count": 396,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Metal",
+      "weight": "1743g",
+      "dimensions": "7 x 19 x 1 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "3-4 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_072",
+    "name": "Product 72 - Toys Item",
+    "description": "High-quality toys product with excellent features and performance",
+    "price": 358.73,
+    "currency": "USD",
+    "category": "Toys",
+    "subcategory": "Educational",
+    "brand": "BrandC",
+    "sku": "BR-072",
+    "in_stock": true,
+    "stock_quantity": 420,
+    "rating": 3.7,
+    "review_count": 3051,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Fabric",
+      "weight": "65g",
+      "dimensions": "8 x 17 x 4 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "3-2 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_073",
+    "name": "Product 73 - Clothing Item",
+    "description": "High-quality clothing product with excellent features and performance",
+    "price": 170.93,
+    "currency": "USD",
+    "category": "Clothing",
+    "subcategory": "Accessories",
+    "brand": "BrandA",
+    "sku": "BR-073",
+    "in_stock": true,
+    "stock_quantity": 273,
+    "rating": 4.4,
+    "review_count": 3594,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "1150g",
+      "dimensions": "16 x 7 x 4 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "5-3 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_074",
+    "name": "Product 74 - Sports & Outdoors Item",
+    "description": "High-quality sports & outdoors product with excellent features and performance",
+    "price": 424.36,
+    "currency": "USD",
+    "category": "Sports & Outdoors",
+    "subcategory": "Footwear",
+    "brand": "BrandB",
+    "sku": "BR-074",
+    "in_stock": true,
+    "stock_quantity": 228,
+    "rating": 4.4,
+    "review_count": 3543,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "788g",
+      "dimensions": "9 x 17 x 10 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "3-4 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_075",
+    "name": "Product 75 - Home & Kitchen Item",
+    "description": "High-quality home & kitchen product with excellent features and performance",
+    "price": 344.09,
+    "currency": "USD",
+    "category": "Home & Kitchen",
+    "subcategory": "Cookware",
+    "brand": "BrandC",
+    "sku": "BR-075",
+    "in_stock": false,
+    "stock_quantity": 56,
+    "rating": 3.7,
+    "review_count": 2898,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "657g",
+      "dimensions": "16 x 8 x 10 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "4-6 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_076",
+    "name": "Product 76 - Home & Kitchen Item",
+    "description": "High-quality home & kitchen product with excellent features and performance",
+    "price": 116.33,
+    "currency": "USD",
+    "category": "Home & Kitchen",
+    "subcategory": "Cookware",
+    "brand": "BrandG",
+    "sku": "BR-076",
+    "in_stock": true,
+    "stock_quantity": 411,
+    "rating": 3.9,
+    "review_count": 1037,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Fabric",
+      "weight": "553g",
+      "dimensions": "18 x 7 x 3 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "3-2 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_077",
+    "name": "Product 77 - Home & Kitchen Item",
+    "description": "High-quality home & kitchen product with excellent features and performance",
+    "price": 317.65,
+    "currency": "USD",
+    "category": "Home & Kitchen",
+    "subcategory": "Appliances",
+    "brand": "BrandH",
+    "sku": "BR-077",
+    "in_stock": false,
+    "stock_quantity": 167,
+    "rating": 3.9,
+    "review_count": 3724,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Fabric",
+      "weight": "1821g",
+      "dimensions": "17 x 15 x 4 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "3-3 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_078",
+    "name": "Product 78 - Sports & Outdoors Item",
+    "description": "High-quality sports & outdoors product with excellent features and performance",
+    "price": 492.42,
+    "currency": "USD",
+    "category": "Sports & Outdoors",
+    "subcategory": "Footwear",
+    "brand": "BrandF",
+    "sku": "BR-078",
+    "in_stock": true,
+    "stock_quantity": 110,
+    "rating": 4.5,
+    "review_count": 4093,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Wood",
+      "weight": "1584g",
+      "dimensions": "9 x 7 x 2 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "3-4 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_079",
+    "name": "Product 79 - Books Item",
+    "description": "High-quality books product with excellent features and performance",
+    "price": 86.97,
+    "currency": "USD",
+    "category": "Books",
+    "subcategory": "Educational",
+    "brand": "BrandA",
+    "sku": "BR-079",
+    "in_stock": false,
+    "stock_quantity": 124,
+    "rating": 4.5,
+    "review_count": 1943,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Wood",
+      "weight": "658g",
+      "dimensions": "19 x 17 x 3 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "1-6 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_080",
+    "name": "Product 80 - Books Item",
+    "description": "High-quality books product with excellent features and performance",
+    "price": 246.92,
+    "currency": "USD",
+    "category": "Books",
+    "subcategory": "Educational",
+    "brand": "BrandA",
+    "sku": "BR-080",
+    "in_stock": true,
+    "stock_quantity": 106,
+    "rating": 4.6,
+    "review_count": 4037,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "1893g",
+      "dimensions": "10 x 12 x 1 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "1-6 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_081",
+    "name": "Product 81 - Toys Item",
+    "description": "High-quality toys product with excellent features and performance",
+    "price": 236.25,
+    "currency": "USD",
+    "category": "Toys",
+    "subcategory": "Action Figures",
+    "brand": "BrandB",
+    "sku": "BR-081",
+    "in_stock": false,
+    "stock_quantity": 216,
+    "rating": 3.6,
+    "review_count": 3274,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "1804g",
+      "dimensions": "7 x 10 x 10 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "1-3 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_082",
+    "name": "Product 82 - Sports & Outdoors Item",
+    "description": "High-quality sports & outdoors product with excellent features and performance",
+    "price": 361.48,
+    "currency": "USD",
+    "category": "Sports & Outdoors",
+    "subcategory": "Water Sports",
+    "brand": "BrandD",
+    "sku": "BR-082",
+    "in_stock": false,
+    "stock_quantity": 269,
+    "rating": 4.7,
+    "review_count": 3049,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Fabric",
+      "weight": "537g",
+      "dimensions": "17 x 5 x 10 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "4-7 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_083",
+    "name": "Product 83 - Books Item",
+    "description": "High-quality books product with excellent features and performance",
+    "price": 398.23,
+    "currency": "USD",
+    "category": "Books",
+    "subcategory": "Fiction",
+    "brand": "BrandF",
+    "sku": "BR-083",
+    "in_stock": true,
+    "stock_quantity": 428,
+    "rating": 4.3,
+    "review_count": 4447,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Fabric",
+      "weight": "867g",
+      "dimensions": "11 x 6 x 7 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "3-6 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_084",
+    "name": "Product 84 - Electronics Item",
+    "description": "High-quality electronics product with excellent features and performance",
+    "price": 265.22,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "brand": "BrandH",
+    "sku": "BR-084",
+    "in_stock": false,
+    "stock_quantity": 458,
+    "rating": 4.0,
+    "review_count": 4946,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Metal",
+      "weight": "775g",
+      "dimensions": "11 x 17 x 6 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "4-3 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_085",
+    "name": "Product 85 - Sports & Outdoors Item",
+    "description": "High-quality sports & outdoors product with excellent features and performance",
+    "price": 116.47,
+    "currency": "USD",
+    "category": "Sports & Outdoors",
+    "subcategory": "Fitness",
+    "brand": "BrandE",
+    "sku": "BR-085",
+    "in_stock": false,
+    "stock_quantity": 381,
+    "rating": 4.2,
+    "review_count": 497,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "1025g",
+      "dimensions": "15 x 8 x 2 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "2-2 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_086",
+    "name": "Product 86 - Clothing Item",
+    "description": "High-quality clothing product with excellent features and performance",
+    "price": 180.88,
+    "currency": "USD",
+    "category": "Clothing",
+    "subcategory": "Bottoms",
+    "brand": "BrandD",
+    "sku": "BR-086",
+    "in_stock": true,
+    "stock_quantity": 382,
+    "rating": 4.6,
+    "review_count": 4328,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "1683g",
+      "dimensions": "8 x 8 x 8 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "3-4 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_087",
+    "name": "Product 87 - Electronics Item",
+    "description": "High-quality electronics product with excellent features and performance",
+    "price": 279.16,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Mobile",
+    "brand": "BrandC",
+    "sku": "BR-087",
+    "in_stock": true,
+    "stock_quantity": 437,
+    "rating": 4.6,
+    "review_count": 1998,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "305g",
+      "dimensions": "9 x 13 x 4 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "3-6 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_088",
+    "name": "Product 88 - Clothing Item",
+    "description": "High-quality clothing product with excellent features and performance",
+    "price": 187.39,
+    "currency": "USD",
+    "category": "Clothing",
+    "subcategory": "Footwear",
+    "brand": "BrandF",
+    "sku": "BR-088",
+    "in_stock": true,
+    "stock_quantity": 75,
+    "rating": 4.4,
+    "review_count": 4566,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Metal",
+      "weight": "981g",
+      "dimensions": "6 x 14 x 5 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "5-5 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_089",
+    "name": "Product 89 - Books Item",
+    "description": "High-quality books product with excellent features and performance",
+    "price": 357.85,
+    "currency": "USD",
+    "category": "Books",
+    "subcategory": "Non-Fiction",
+    "brand": "BrandB",
+    "sku": "BR-089",
+    "in_stock": true,
+    "stock_quantity": 414,
+    "rating": 3.6,
+    "review_count": 3328,
+    "features": [
+      "Premium Quality",
+      "Durable",
+      "Eco-Friendly"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "1841g",
+      "dimensions": "15 x 6 x 1 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "5-6 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_090",
+    "name": "Product 90 - Clothing Item",
+    "description": "High-quality clothing product with excellent features and performance",
+    "price": 57.48,
+    "currency": "USD",
+    "category": "Clothing",
+    "subcategory": "Footwear",
+    "brand": "BrandE",
+    "sku": "BR-090",
+    "in_stock": true,
+    "stock_quantity": 365,
+    "rating": 3.6,
+    "review_count": 3830,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Fabric",
+      "weight": "1867g",
+      "dimensions": "13 x 20 x 6 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "4-4 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_091",
+    "name": "Product 91 - Home & Kitchen Item",
+    "description": "High-quality home & kitchen product with excellent features and performance",
+    "price": 351.37,
+    "currency": "USD",
+    "category": "Home & Kitchen",
+    "subcategory": "Decor",
+    "brand": "BrandA",
+    "sku": "BR-091",
+    "in_stock": true,
+    "stock_quantity": 205,
+    "rating": 4.9,
+    "review_count": 4939,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "534g",
+      "dimensions": "6 x 12 x 1 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "3-3 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_092",
+    "name": "Product 92 - Electronics Item",
+    "description": "High-quality electronics product with excellent features and performance",
+    "price": 334.61,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "brand": "BrandH",
+    "sku": "BR-092",
+    "in_stock": true,
+    "stock_quantity": 361,
+    "rating": 4.3,
+    "review_count": 4026,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "1789g",
+      "dimensions": "18 x 9 x 7 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "5-5 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_093",
+    "name": "Product 93 - Beauty Item",
+    "description": "High-quality beauty product with excellent features and performance",
+    "price": 203.4,
+    "currency": "USD",
+    "category": "Beauty",
+    "subcategory": "Makeup",
+    "brand": "BrandH",
+    "sku": "BR-093",
+    "in_stock": true,
+    "stock_quantity": 314,
+    "rating": 4.9,
+    "review_count": 249,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Wood",
+      "weight": "1628g",
+      "dimensions": "7 x 16 x 4 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "2-4 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_094",
+    "name": "Product 94 - Sports & Outdoors Item",
+    "description": "High-quality sports & outdoors product with excellent features and performance",
+    "price": 237.72,
+    "currency": "USD",
+    "category": "Sports & Outdoors",
+    "subcategory": "Footwear",
+    "brand": "BrandC",
+    "sku": "BR-094",
+    "in_stock": false,
+    "stock_quantity": 275,
+    "rating": 3.9,
+    "review_count": 1867,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Wood",
+      "weight": "80g",
+      "dimensions": "15 x 14 x 6 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "4-6 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_095",
+    "name": "Product 95 - Sports & Outdoors Item",
+    "description": "High-quality sports & outdoors product with excellent features and performance",
+    "price": 462.47,
+    "currency": "USD",
+    "category": "Sports & Outdoors",
+    "subcategory": "Outdoor Gear",
+    "brand": "BrandF",
+    "sku": "BR-095",
+    "in_stock": true,
+    "stock_quantity": 440,
+    "rating": 4.0,
+    "review_count": 2213,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "1717g",
+      "dimensions": "17 x 8 x 2 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "4-6 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_096",
+    "name": "Product 96 - Clothing Item",
+    "description": "High-quality clothing product with excellent features and performance",
+    "price": 217.1,
+    "currency": "USD",
+    "category": "Clothing",
+    "subcategory": "Tops",
+    "brand": "BrandG",
+    "sku": "BR-096",
+    "in_stock": true,
+    "stock_quantity": 242,
+    "rating": 4.5,
+    "review_count": 1694,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Wood",
+      "weight": "673g",
+      "dimensions": "9 x 14 x 3 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "4-5 business days",
+      "return_policy": "60 days"
+    }
+  },
+  {
+    "id": "prod_097",
+    "name": "Product 97 - Automotive Item",
+    "description": "High-quality automotive product with excellent features and performance",
+    "price": 344.42,
+    "currency": "USD",
+    "category": "Automotive",
+    "subcategory": "Maintenance",
+    "brand": "BrandF",
+    "sku": "BR-097",
+    "in_stock": true,
+    "stock_quantity": 73,
+    "rating": 4.5,
+    "review_count": 4952,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Composite",
+      "weight": "435g",
+      "dimensions": "7 x 15 x 3 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "2-7 business days",
+      "return_policy": "30 days"
+    }
+  },
+  {
+    "id": "prod_098",
+    "name": "Product 98 - Clothing Item",
+    "description": "High-quality clothing product with excellent features and performance",
+    "price": 324.51,
+    "currency": "USD",
+    "category": "Clothing",
+    "subcategory": "Accessories",
+    "brand": "BrandA",
+    "sku": "BR-098",
+    "in_stock": true,
+    "stock_quantity": 279,
+    "rating": 3.5,
+    "review_count": 4701,
+    "features": [
+      "Modern Design",
+      "User Friendly",
+      "Compact"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "1963g",
+      "dimensions": "17 x 15 x 10 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "2-7 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_099",
+    "name": "Product 99 - Electronics Item",
+    "description": "High-quality electronics product with excellent features and performance",
+    "price": 452.28,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "brand": "BrandH",
+    "sku": "BR-099",
+    "in_stock": true,
+    "stock_quantity": 260,
+    "rating": 3.8,
+    "review_count": 2526,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "specifications": {
+      "material": "Fabric",
+      "weight": "855g",
+      "dimensions": "6 x 18 x 1 inches"
+    },
+    "shipping": {
+      "free_shipping": false,
+      "estimated_delivery": "4-7 business days",
+      "return_policy": "90 days"
+    }
+  },
+  {
+    "id": "prod_100",
+    "name": "Product 100 - Clothing Item",
+    "description": "High-quality clothing product with excellent features and performance",
+    "price": 438.31,
+    "currency": "USD",
+    "category": "Clothing",
+    "subcategory": "Footwear",
+    "brand": "BrandH",
+    "sku": "BR-100",
+    "in_stock": true,
+    "stock_quantity": 135,
+    "rating": 4.3,
+    "review_count": 2537,
+    "features": [
+      "Fast Shipping",
+      "Easy Returns",
+      "Warranty Included"
+    ],
+    "specifications": {
+      "material": "Plastic",
+      "weight": "1127g",
+      "dimensions": "6 x 20 x 5 inches"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "estimated_delivery": "5-6 business days",
+      "return_policy": "60 days"
+    }
+  }
+]
